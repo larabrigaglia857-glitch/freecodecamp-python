@@ -1,5 +1,3 @@
-# freeCodeCamp Python Certification
-
 This repository contains the projects I completed while working through the **Python Certification** on freeCodeCamp.
 
 ## Certification Projects
@@ -12,12 +10,19 @@ This repository contains the projects I completed while working through the **Py
 
 ## Repository Structure
 
+```text
 certification-projects/
 ├── user-configuration-manager/
+│   └── main.py
 ├── budget-app/
+│   └── main.py
 ├── polygon-area-calculator/
+│   └── main.py
 ├── hash-table/
+│   └── main.py
 └── tower-of-hanoi/
+    └── main.py
+```
 
 ## Technologies
 
