@@ -1,29 +1,33 @@
 # freeCodeCamp Python Certification
 
-My projects and exercises completed while working through the
-freeCodeCamp Python Certification.
+This repository contains the projects I completed while working through the **Python Certification** on freeCodeCamp.
 
 ## Certification Projects
 
-The main certification projects will be organized here:
+* **User Configuration Manager**
+* **Budget App**
+* **Polygon Area Calculator**
+* **Hash Table**
+* **Tower of Hanoi**
 
-- User Configuration Manager
-- Budget App
-- Polygon Area Calculator
-- Hash Table
-- Tower of Hanoi
+## Repository Structure
 
-## Structure
-
-- `certification-projects/` — certification projects
-- `workshops/` — workshop projects and exercises
-- `labs/` — lab projects
+certification-projects/
+├── user-configuration-manager/
+├── budget-app/
+├── polygon-area-calculator/
+├── hash-table/
+└── tower-of-hanoi/
 
 ## Technologies
 
-- Python
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Recursion
-- Testing
+* Python
+* Object-Oriented Programming
+* Data Structures
+* Algorithms
+* Recursion
+* Testing
+
+---
+
+Built while learning Python with [freeCodeCamp](https://www.freecodecamp.org/).
